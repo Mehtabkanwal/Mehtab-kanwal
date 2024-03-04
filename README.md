@@ -1,4 +1,4 @@
-![logo](https://github.com/Mehtabkanwal/Mehtab-kanwal/blob/main/github%20banner.jfif)
+![logo](https://github.com/Mehtabkanwal/Mehtabkanwal/blob/main/github%20banner2.jfif)
 <h1 align="center">Hi 👋, I'm Mehtab Kanwal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
